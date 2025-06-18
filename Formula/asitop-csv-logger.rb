@@ -3,8 +3,9 @@ class AsitopCsvLogger < Formula
 
   desc "CSV logger for ASITOP on Apple Silicon"
   homepage "https://github.com/Intruder2614/homebrew-asitop-csv-logger"
-  url "https://github.com/Intruder2614/homebrew-asitop-csv-logger/releases/download/v1.0.8/asitop_csv_logger-1.0.8.tar.gz"
-  sha256 "c250fa450d85cd866b36bcf7c2804ab8831084c09d160c4dc4c5a40746a7be66"
+  url "https://github.com/Intruder2614/asitop-csv-logger/archive/refs/tags/v1.1.0.8.tar.gz"
+
+  sha256 "004ae925fe226282fa3320b04f8860ecf2d602ab99b6b842ed37e0ab4c2978bd"
   license "MIT"
 
   depends_on "python@3.12"
