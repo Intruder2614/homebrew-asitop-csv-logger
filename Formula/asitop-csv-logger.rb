@@ -10,7 +10,7 @@ class AsitopCsvLogger < Formula
 
   depends_on "python@3.12"
 
-   resource "psutil" do
+  resource "psutil" do
     url "https://files.pythonhosted.org/packages/2a/80/336820c1ad9286a4ded7e845b2eccfcb27851ab8ac6abece774a6ff4d3de/psutil-7.0.0.tar.gz"
     sha256 "7be9c3eba38beccb6495ea33afd982a44074b78f28c434a1f51cc07fd315c456"
   end
