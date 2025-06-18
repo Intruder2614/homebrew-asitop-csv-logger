@@ -11,8 +11,8 @@ class AsitopCsvLogger < Formula
   depends_on "python@3.12"
 
    resource "psutil" do
-    url "https://files.pythonhosted.org/packages/31/cf/66a6c83d1aa83a7c67d694bb498878e3d6b7a5116f9c64b3b060d6d53f27/psutil-5.9.8.tar.gz"
-    sha256 "29e1e46cd2e32c4cce9f05ce71cbf4a759a05fe269f007f39c2a0df5d57380a0"
+    url "https://files.pythonhosted.org/packages/2a/80/336820c1ad9286a4ded7e845b2eccfcb27851ab8ac6abece774a6ff4d3de/psutil-7.0.0.tar.gz"
+    sha256 "7be9c3eba38beccb6495ea33afd982a44074b78f28c434a1f51cc07fd315c456"
   end
 
   def install
