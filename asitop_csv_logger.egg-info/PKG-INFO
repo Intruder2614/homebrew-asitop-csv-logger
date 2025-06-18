@@ -11,8 +11,8 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: MacOS :: MacOS X
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
-Requires-Dist: psutil>=5.9.0
-Requires-Dist: dashing>=0.1.0
+Requires-Dist: psutil
+Requires-Dist: dashing
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier

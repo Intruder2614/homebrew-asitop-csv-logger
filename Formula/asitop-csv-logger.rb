@@ -5,7 +5,7 @@ class AsitopCsvLogger < Formula
   homepage "https://github.com/Intruder2614/asitop-csv-logger"
   url "https://github.com/Intruder2614/asitop-csv-logger/releases/download/v1.1.0.8/asitop_csv_logger-1.0.8.tar.gz"
 
-  sha256 "5bcfa0461f567bbdb06ee91a2ad81a4a423a0ad0beebbffcd861727ad6fa2fc7"
+  sha256 "9fb5d522c001877517782c0b95fecf416121ab745d27ebe783e14b7dd6438f40"
   license "MIT"
 
   depends_on "python@3.12"

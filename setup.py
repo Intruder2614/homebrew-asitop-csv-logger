@@ -13,8 +13,8 @@ setup(
     include_package_data=True,
     python_requires=">=3.7",
     install_requires=[
-        "psutil>=5.9.0",
-        "dashing>=0.1.0"
+        "psutil ",
+        "dashing"
 
     ],
     entry_points={
