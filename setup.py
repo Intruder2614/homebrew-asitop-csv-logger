@@ -8,7 +8,7 @@ setup(
     description="CLI tool to log Apple Silicon system metrics to terminal and/or CSV",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Intruder2614/asitop_raw_data_csv",
+    url="https://github.com/Intruder2614/asitop-csv-logger",
     packages=find_packages(),
     include_package_data=True,
     python_requires=">=3.7",
