@@ -45,6 +45,10 @@ pip install asitop-csv
 # or if you're installing from source
 pip install -e .
 ```
+```bash
+brew tap Intruder2614/homebrew-asitop-csv-logger
+brew install asitop-csv-logger
+```
 
 ## Usage
 
